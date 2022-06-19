@@ -11,6 +11,6 @@
 ![](https://raw.githubusercontent.com/patrickluizdev/instaXan/main/img/ico/White.ico)
 ![](https://raw.githubusercontent.com/patrickluizdev/instaXan/main/img/ico/blackbackgroundwhite.ico)
 
-## _ScreenShot_
-
+## _ScreenShots_
 ![](https://raw.githubusercontent.com/patrickluizdev/instaXan/main/ref/Screen.jpg)
+![](https://raw.githubusercontent.com/patrickluizdev/instaXan/main/img/instaxan-celular.png)
