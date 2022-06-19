@@ -10,7 +10,6 @@
 ![](https://raw.githubusercontent.com/patrickluizdev/instaXan/main/img/icone.ico)
 ![](https://raw.githubusercontent.com/patrickluizdev/instaXan/main/img/ico/White.ico)
 ![](https://raw.githubusercontent.com/patrickluizdev/instaXan/main/img/ico/blackbackgroundwhite.ico)
-![](https://raw.githubusercontent.com/patrickluizdev/instaXan/main/img/ico/Ball%20220.ico)
 
 ## _ScreenShot_
 
